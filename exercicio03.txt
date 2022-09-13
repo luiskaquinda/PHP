@@ -1,0 +1,27 @@
+Bengo -  localizada na região centro-norte do país - 1
+Benguela - localizada na região central do país - 2
+Bié -  localizada na região central do país - 2
+Cabinda - localizada na região norte do país - 3
+Kuando-Kubango - localizada na região leste do país - 4
+Kwanza-Norte - localizada na região centro-norte do país - 1
+Kwanza-Sul -  localizada na região central do país - 2
+Cunene - localizada na região sul do país - 5
+Huambo - localizada na região central do país - 2
+Huíla - localizada na região sul do país - 5
+Luanda - localizada na região centro-norte do país - 1
+Lunda-Norte - localizada no nordeste do país - 6
+Lunda-Sul -  localizada no leste do país - 7
+Malanje - localizada na região norte do país - 3
+Moxico - localizada na região leste do país - 7
+Namibe -  localizada no sul do país - 5
+Uíge - localizada na região norte do país - 3
+Zaire - localizada na região norte do país  - 3
+
+
+1 - Região Centro-Norte
+2 - Região Central
+3 - Região Norte
+4 - Região Leste
+5 - Região Sul
+6 - Região Nordeste
+7 - Região Leste
